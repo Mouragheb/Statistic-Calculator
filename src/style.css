@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color:#1e6359 ;
+  text-align: center;
+  color: #eee;
+}
+.mouragheb-logo {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+  background-color: rgb(59, 59, 79);
+  border: 3px solid white;
+  color: white;
+}
+.hidden{
+  display:none;
+}
+
+input {
+  background-color: rgb(10, 10, 35);
+  color: white;
+  border: 1px solid rgb(59, 59, 79);
+}
+
+.bold {
+  font-weight: bold;
+}
